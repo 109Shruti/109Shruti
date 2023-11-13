@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @109Shruti
 - 👀 I’m interested in learning new technologies 
-- 🌱 I’m currently learning Android Development
 - 📫 How to reach me shrutidogra011@gmail.com 
 
 <!---
