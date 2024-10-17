@@ -18,3 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=109shruti&show_icons=true&locale=en" alt="109shruti" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=109shruti&" alt="109shruti" /></p>
+<p><img src="https://tryhackme-badges.s3.amazonaws.com/Rodie.png" alt="Your Image Badge" />
+</p>
